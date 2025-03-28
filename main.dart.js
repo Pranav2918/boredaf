@@ -29009,7 +29009,7 @@ $S:7}
 A.QL.prototype={}
 A.yf.prototype={
 V(a){var s=null
-return new A.pD(new A.p7(s),"Flutter Demo",A.a0U(s,A.a2R(B.T,s,s,B.Bg),B.i,s),s)}}
+return new A.pD(new A.p7(s),"Bored Aff",A.a0U(s,A.a2R(B.T,s,s,B.Bg),B.i,s),s)}}
 A.p7.prototype={
 ao(){return new A.CK()}}
 A.CK.prototype={
