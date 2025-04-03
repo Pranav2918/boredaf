@@ -29029,7 +29029,7 @@ case 2:if(!c)throw A.f(A.bV("Could not launch "+a.k(0)))
 return A.O(null,r)}})
 return A.P($async$nd,r)}}
 A.I9.prototype={
-$0(){this.a.nd(A.fw($.ajy[B.vp.UU(19)],0,null))},
+$0(){this.a.nd(A.fw($.ajy[B.vp.UU(21)],0,null))},
 $S:0}
 A.I8.prototype={
 $1(a){var s=this.a
@@ -54223,7 +54223,7 @@ $.a1w=!1
 $.Z=B.N
 $.a6F=A.x(t.N,t.DT)
 $.a6S=A.x(t.in,t.e)
-$.ajy=A.b(["https://chrismckenzie.com/","https://sliding.toys/","https://thezen.zone/","https://randomcolour.com/","https://www.rrrgggbbb.com/","https://hackertyper.com/","https://pointerpointer.com/","https://optical.toys/","https://strobe.cool/","https://iamawesome.com/","https://thisisnotajumpscare.com/","https://lacquerlacquer.com/","https://memory.toys/maze/easy","https://maze.toys/mazes/mini/daily/https://checkbox.toys/scale/https://paint.toys/calligram/https://skribbl.io/","https://www.blankwindows.com/","https://thisissand.com/","https://radio.garden/visit/brussels/rvVa25hx","https://quickdraw.withgoogle.com/","https://patatap.com/"],t.s)
+$.ajy=A.b(["https://chrismckenzie.com/","https://sliding.toys/","https://thezen.zone/","https://randomcolour.com/","https://www.rrrgggbbb.com/","https://hackertyper.com/","https://pointerpointer.com/","https://optical.toys/","https://strobe.cool/","https://iamawesome.com/","https://thisisnotajumpscare.com/","https://lacquerlacquer.com/","https://memory.toys/maze/easy","https://maze.toys/mazes/mini/daily/","https://checkbox.toys/scale/","https://paint.toys/calligram/https://skribbl.io/","https://www.blankwindows.com/","https://thisissand.com/","https://radio.garden/visit/brussels/rvVa25hx","https://quickdraw.withgoogle.com/","https://patatap.com/"],t.s)
 $.fW=A.ai7()
 $.a_U=0
 $.ace=A.b([],A.a9("w<alH>"))
